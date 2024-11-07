@@ -12,7 +12,7 @@ Installation
 
     Klone das Repository:
 
-git clone <repository-url>
+git clone https://github.com/rueeschz-bzz/m323_flask
 
 Installiere Flask:
 
